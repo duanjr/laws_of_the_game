@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>足球竞赛规则</title>
+  <link rel="icon" href="icons8-football-96.png" type="image/png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -12,11 +13,30 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
+      name: '足球竞赛规则2023/24',
       repo: '',
+      loadSidebar: true,
+      search : 'auto',
+      markdown: {
+        renderer: {
+            image: function(href, title, text) {
+                // 按照原来的渲染 img
+                var image_html = this.origin.image.apply(this, arguments)
+                // 用 figure 包一下图片，实现居中
+                return '<figure>' + image_html + '<figcaption>' + text +
+                    '</figcaption></figure>'
+            }
+        }
+    }
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <style>
+    figure {
+        text-align: center
+    }
+  </style>
 </body>
 </html>
