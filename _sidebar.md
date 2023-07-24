@@ -1,4 +1,4 @@
-* [声明](./README.md)
+* [声明](./declaration.md)
 
 
 * 关于竞赛规则
