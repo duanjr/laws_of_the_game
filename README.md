@@ -4,7 +4,7 @@ This document is the Chinese online version of the Laws of the Game issued by th
 
 This document is rendered using `docsify`.
 
-View deployed version at https://duanjinrong.com/laws_of_the_game or Github Pages.
+View deployed version at https://duanjinrong.com/laws_of_the_game or [Github Pages](https://duanjr.github.io/laws_of_the_game/#/).
 
 
 
@@ -14,4 +14,4 @@ View deployed version at https://duanjinrong.com/laws_of_the_game or Github Page
 
 本文档使用`docsify`进行渲染。
 
-点击https://duanjinrong.com/laws_of_the_game (国内可访问)，或Github Pages 访问部署版本。
+点击https://duanjinrong.com/laws_of_the_game (国内可访问)，或 [Github Pages](https://duanjr.github.io/laws_of_the_game/#/) 访问部署版本。

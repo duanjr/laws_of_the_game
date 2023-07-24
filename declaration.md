@@ -6,6 +6,6 @@
 
 本文档并非国际足联或者中国足协的官方译本。本文档仅作参考，如有任何遗漏或谬误概不负责
 
-Contact: duanjr02@gmail.com
+如果您有任何意见请联系duanjr02@gmail.com，或者在[Github 仓库](https://github.com/duanjr/laws_of_the_game)提起Issue/PR.
 
 ![](docs/vertopal_a6e2a68e5d38415d827a2cae7f5e6c13/media/image60.png ':class=myImageClass')
