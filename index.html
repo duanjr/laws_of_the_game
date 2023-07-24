@@ -37,6 +37,17 @@
     figure {
         text-align: center
     }
+     .myImageClass {
+        width: 100vw; /* 宽度设为视窗宽度的100% */
+        height: auto; /* 高度等比例自适应 */
+    }
+
+    /* 桌面端样式：通常以屏幕宽度为768px作为移动端和桌面端的分界点 */
+    @media (min-width: 768px) {
+        .myImageClass {
+            width: 40vw; /* 宽度设为视窗宽度的50% */
+        }
+    }
   </style>
 </body>
 </html>

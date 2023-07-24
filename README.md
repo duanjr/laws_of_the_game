@@ -8,4 +8,4 @@
 
 Contact: duanjr02@gmail.com
 
-![](docs/vertopal_a6e2a68e5d38415d827a2cae7f5e6c13/media/image60.png ':size=50%')
+![](docs/vertopal_a6e2a68e5d38415d827a2cae7f5e6c13/media/image60.png ':class=myImageClass')
